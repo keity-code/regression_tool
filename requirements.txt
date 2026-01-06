@@ -1,10 +1,10 @@
 streamlit
 pandas
 scipy
-stas
 scikit-learn
 seaborn
 matplotlib
 statsmodels
 google-generativeai
 openpyxl
+
